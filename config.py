@@ -3,8 +3,8 @@ Configuration file for Crop Disease Early Warning System
 """
 
 # API Configuration
-OPENWEATHER_API_KEY = "you api key"
-AGROMONITORING_API_KEY = "your api key"
+OPENWEATHER_API_KEY = "you api key"  # 1957925618b635c26a59793ae2d0755d  this is the api key please add in //#
+AGROMONITORING_API_KEY = "your api key"   #c1ecb930ebbc8ad836130d33c7bc9dbc this api key for agro monitering #
 
 # Application Settings
 APP_NAME = "Crop Disease Early Warning System"
