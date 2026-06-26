@@ -1,0 +1,16 @@
+
+---
+
+## How to Run
+
+### Step 1: Install Python
+- Download Python 3.7+ from [python.org](https://python.org)
+- During installation, CHECK "Add Python to PATH"
+
+### Step 2: Install Required Module
+Open terminal/command prompt:
+```bash
+pip install requests
+
+then run the project 
+ python run.py
